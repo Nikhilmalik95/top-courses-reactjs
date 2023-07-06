@@ -6,7 +6,7 @@ import React from 'react'
   return (
     <div>
         <nav className='bg-purple-900 py-4'>
-            <h1 className='text-3xl font-bold text-center text-white'>Top Cources</h1>
+            <h1 className='text-3xl font-bold text-center text-white'>Top Courses</h1>
         </nav>
     </div>
   )
